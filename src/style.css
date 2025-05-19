@@ -214,6 +214,7 @@ section .card {
 /* amenities section start */
 .amenity-section {
   margin-top: 3rem;
+  background-color: rgb(232, 229, 229);
 }
 .amenities {
   margin-top: 3rem;
@@ -238,8 +239,9 @@ section .card {
 
 .amenity-card:hover {
   transform: translateY(-5px);
-  background-color: wheat;
+  background-color: rgb(208, 192, 221);
   width: 15.5rem;
+  color: rgb(233, 21, 21);
 }
 
 .amenity-card img {
